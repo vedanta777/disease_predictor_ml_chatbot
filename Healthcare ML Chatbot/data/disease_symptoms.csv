@@ -1,0 +1,54 @@
+Disease,Symptoms
+Influenza,fever|chills|cough|sore throat|runny nose|muscle aches|fatigue
+Pneumonia,fever|cough|chest pain|shortness of breath|fatigue|phlegm
+Asthma,wheezing|cough|shortness of breath|chest tightness
+Diabetes,frequent urination|excessive thirst|unexplained weight loss|blurred vision|fatigue
+Tuberculosis,cough|weight loss|fever|night sweats|fatigue|blood in sputum
+Hypertension,headache|dizziness|nosebleeds|shortness of breath|chest pain
+COVID-19,fever|cough|shortness of breath|loss of taste|loss of smell|fatigue|headache
+Common Cold,sneezing|runny nose|sore throat|cough|mild fever|watery eyes
+Migraine,headache|nausea|sensitivity to light|sensitivity to sound|vomiting
+Malaria,fever|chills|sweating|headache|nausea|vomiting|muscle aches
+Cholera,watery diarrhea|vomiting|rapid heart rate|loss of skin elasticity|thirst
+Typhoid Fever,fever|abdominal pain|headache|loss of appetite|constipation|rash
+Bronchitis,cough|fatigue|mucus|shortness of breath|mild fever|chest discomfort
+Chickenpox,fever|rash|itching|fatigue|headache
+Mumps,swollen glands|fever|headache|muscle aches|fatigue|loss of appetite
+Measles,fever|rash|cough|runny nose|red eyes|sore throat
+Rubella,fever|rash|headache|red eyes|swollen lymph nodes
+Otitis Media,ear pain|trouble hearing|fever|irritability|fluid drainage
+Sinusitis,facial pain|nasal congestion|runny nose|headache|fever
+Conjunctivitis,red eyes|itchiness|watering|swelling|discharge
+Tonsillitis,sore throat|difficulty swallowing|fever|swollen tonsils|bad breath
+Gastroenteritis,diarrhea|nausea|vomiting|abdominal cramps|fever|dehydration
+Peptic Ulcer,abdominal pain|nausea|bloating|heartburn|black stools
+Appendicitis,abdominal pain|nausea|vomiting|loss of appetite|fever
+Hepatitis,fatigue|nausea|abdominal pain|jaundice|fever
+Gallstones,abdominal pain|nausea|vomiting|fever|jaundice
+Kidney Stones,severe pain|blood in urine|nausea|vomiting|frequent urination
+UTI,painful urination|frequent urination|cloudy urine|abdominal pain|fever
+Prostate Enlargement,urine retention|weak urine stream|frequent urination|dribbling|difficulty starting urination
+Rheumatoid Arthritis,joint pain|swelling|morning stiffness|fatigue|fever
+Osteoarthritis,joint pain|stiffness|difficulty moving|swelling
+Lupus,fatigue|joint pain|rash|fever|hair loss|mouth ulcers
+Psoriasis,red patches|itching|dry skin|pain|swelling|thickened nails
+Eczema,dry skin|itching|redness|rash|cracking|blisters
+Dermatitis,redness|itching|swelling|oozing|crusting|blisters
+Anemia,fatigue|pale skin|shortness of breath|dizziness|cold hands and feet
+Leukemia,frequent infections|fatigue|fever|easy bruising|bleeding|weight loss
+Thalassemia,fatigue|weakness|pale skin|dark urine|bone deformities|delayed growth
+Sickle Cell Disease,anemia|pain episodes|swelling|frequent infections|vision problems
+Epilepsy,seizures|confusion|staring spells|loss of awareness|unusual movements
+Parkinson's Disease,tremor|stiffness|slow movement|balance problems|speech changes
+Alzheimer's Disease,memory loss|confusion|difficulty thinking|mood changes|disorientation
+Schizophrenia,delusions|hallucinations|disorganized speech|lack of motivation|social withdrawal
+Bipolar Disorder,depression|mania|mood swings|irritability|loss of energy
+Depression,sadness|loss of interest|fatigue|sleep changes|difficulty concentrating
+Anxiety Disorders,excessive worry|nervousness|fear|restlessness|rapid heartbeat
+Autism Spectrum Disorder,difficulty communicating|social challenges|repetitive behaviors|sensory issues
+ADHD,inattention|hyperactivity|impulsiveness|difficulty organizing
+Obesity,excess body weight|fatigue|shortness of breath|joint pain
+Hyperthyroidism,weight loss|anxiety|tremors|rapid heart rate|heat intolerance
+Hypothyroidism,fatigue|weight gain|cold intolerance|dry skin|hair loss
+Celiac Disease,diarrhea|bloating|abdominal pain|weight loss|fatigue
+Irritable Bowel Syndrome,abdominal pain|bloating|diarrhea|constipation|gas

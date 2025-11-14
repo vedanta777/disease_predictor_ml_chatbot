@@ -1,0 +1,54 @@
+Disease,Treatment
+Influenza,Rest; fluids; antiviral meds if severe
+Pneumonia,Antibiotics; rest; fluids; hospitalization if severe
+Asthma,Inhalers; avoid triggers; corticosteroids
+Diabetes,Insulin therapy; oral meds; lifestyle modification
+Tuberculosis,Long-term antibiotics (isoniazid, rifampicin)
+Hypertension,ACE inhibitors; beta blockers; lifestyle changes
+COVID-19,Isolation; fever reducers; fluids; seek medical attention if worsening
+Common Cold,Rest; hydration; over-the-counter meds
+Migraine,Pain relievers; rest; minimize light/sound
+Malaria,Antimalarial drugs (artemether, chloroquine)
+Cholera,Rehydration salts; antibiotics if severe
+Typhoid Fever,Antibiotic therapy; hydration; rest
+Bronchitis,Rest; fluids; cough suppressants; antibiotics (if bacterial)
+Chickenpox,Rest; antihistamines; antiviral in severe cases
+Mumps,Rest; fluids; cold compresses; pain relievers
+Measles,Rest; fever reducers; vitamin A
+Rubella,Rest; fluids; fever management
+Otitis Media,Pain relievers; antibiotics if needed; warm compress
+Sinusitis,Decongestants; nasal irrigation; antibiotics if bacterial
+Conjunctivitis,Antibiotic or antihistamine drops; maintain hygiene
+Tonsillitis,Antibiotics (if bacterial); pain relievers; hydration
+Gastroenteritis,Oral rehydration; antiemetics; dietary adjustments
+Peptic Ulcer,Antacids; antibiotics for H. pylori; PPIs
+Appendicitis,Surgical removal; antibiotics pre/post surgery
+Hepatitis,Rest; avoid alcohol; antiviral drugs (for viral cases)
+Gallstones,Pain management; surgical removal (cholecystectomy)
+Kidney Stones,Pain relief; hydration; sometimes surgical removal
+UTI,Antibiotics; hydration; pain relievers
+Prostate Enlargement,Alpha-blockers; 5-alpha-reductase inhibitors; surgery if needed
+Rheumatoid Arthritis,DMARDs; NSAIDs; physical therapy
+Osteoarthritis,Pain relief; physical therapy; joint injections
+Lupus,Corticosteroids; immunosuppressive drugs; symptomatic care
+Psoriasis,Topical steroids; phototherapy; systemic agents
+Eczema,Moisturizers; topical corticosteroids; antihistamines
+Dermatitis,Topical steroids; avoid irritants; oral antihistamines
+Anemia,Iron supplements; B12/Folate; treat underlying cause
+Leukemia,Chemotherapy; targeted therapy; bone marrow transplant
+Thalassemia,Blood transfusions; chelation therapy; folic acid
+Sickle Cell Disease,Pain management; hydration; blood transfusions
+Epilepsy,Anticonvulsants; avoid triggers; surgical options
+Parkinson's Disease,Levodopa; dopamine agonists; physical therapy
+Alzheimer's Disease,Cholinesterase inhibitors; supportive care
+Schizophrenia,Antipsychotic medications; therapy; social support
+Bipolar Disorder,Mood stabilizers; antipsychotics; psychotherapy
+Depression,SSRIs; psychotherapy; lifestyle modification
+Anxiety Disorders,Benzodiazepines; SSRIs; CBT; relaxation exercises
+Autism Spectrum Disorder,Behavioral therapy; educational support
+ADHD,Stimulants; behavioral therapy; organizational skills coaching
+Obesity,Diet; exercise; weight loss medications; bariatric surgery
+Hyperthyroidism,Antithyroid drugs; radioactive iodine; surgery
+Hypothyroidism,Thyroid hormone replacement; regular monitoring
+Celiac Disease,Gluten-free diet; vitamin supplements
+Irritable Bowel Syndrome,Dietary changes; antispasmodics; stress management
